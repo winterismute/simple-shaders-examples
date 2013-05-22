@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\Effect1.xnb</Output>
+      <Time>2011-06-09T08:50:01.53125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EffectTex.fx</Source>
+      <Name>EffectTex</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\EffectTex.xnb</Output>
+      <Time>2011-06-08T19:04:55.0625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teapot.fbx</Source>
+      <Name>teapot</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\teapot.xnb</Output>
+      <Time>2011-06-02T17:32:11.546875+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\teapot_0.xml</Key>
+        <Value>2011-06-09T09:09:14.328125+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>wood.jpg</Source>
+      <Name>wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\wood.xnb</Output>
+      <Time>2011-06-03T17:02:28.234375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>nrm_dx.jpg</Source>
+      <Name>nrm_dx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\nrm_dx.xnb</Output>
+      <Time>2011-06-06T17:14:50.828125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>diffuse.jpg</Source>
+      <Name>diffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\diffuse.xnb</Output>
+      <Time>2011-06-06T17:15:01.265625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teapot.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\teapot_0.xml</Output>
+      <Time>2011-06-02T17:32:11.546875+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Programmi\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programmi\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programmi\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programmi\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programmi\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programmi\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-02T22:14:21.203125+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

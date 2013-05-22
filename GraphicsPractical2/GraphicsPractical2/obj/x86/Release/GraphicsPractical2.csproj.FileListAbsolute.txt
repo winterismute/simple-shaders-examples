@@ -1,0 +1,12 @@
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\Effect1.xnb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\EffectTex.xnb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\teapot.xnb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\wood.xnb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\nrm_dx.xnb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\Content\diffuse.xnb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\GraphicsPractical2.exe
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\bin\x86\Release\GraphicsPractical2.pdb
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\obj\x86\Release\GraphicsPractical2.exe
+C:\Documents and Settings\R\documenti\visual studio 2010\Projects\GraphicsPractical2\GraphicsPractical2\GraphicsPractical2\obj\x86\Release\GraphicsPractical2.pdb

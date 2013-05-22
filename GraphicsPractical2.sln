@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsPractical2", "GraphicsPractical2\GraphicsPractical2\GraphicsPractical2.csproj", "{72B4B3AE-A35E-4159-9F68-905F19AE23AD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GraphicsPractical2Content", "GraphicsPractical2\GraphicsPractical2Content\GraphicsPractical2Content.contentproj", "{94B2EFC9-98C4-470A-B62E-4DBBBAD88BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B4B3AE-A35E-4159-9F68-905F19AE23AD}.Debug|x86.ActiveCfg = Debug|x86
+		{72B4B3AE-A35E-4159-9F68-905F19AE23AD}.Debug|x86.Build.0 = Debug|x86
+		{72B4B3AE-A35E-4159-9F68-905F19AE23AD}.Release|x86.ActiveCfg = Release|x86
+		{72B4B3AE-A35E-4159-9F68-905F19AE23AD}.Release|x86.Build.0 = Release|x86
+		{94B2EFC9-98C4-470A-B62E-4DBBBAD88BD2}.Debug|x86.ActiveCfg = Debug|x86
+		{94B2EFC9-98C4-470A-B62E-4DBBBAD88BD2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

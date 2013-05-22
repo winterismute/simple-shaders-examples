@@ -1,0 +1,6 @@
+Content\Effect1.xnb
+Content\EffectTex.xnb
+Content\teapot.xnb
+Content\wood.xnb
+Content\nrm_dx.xnb
+Content\diffuse.xnb
